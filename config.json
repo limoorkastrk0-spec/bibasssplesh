@@ -1,1 +1,114 @@
-
+{
+  "engine_enabled": true,
+  "interstitial_every_n_actions": 3,
+  "interstitial_min_interval_ms": 60000,
+  "interstitial_min_watch_ms": 5000,
+  "rewarded_min_watch_ms": 15000,
+  "creatives": [
+    {
+      "id": "interstitial_1",
+      "format": "image",
+      "placements": ["interstitial", "rewarded"],
+      "image_url": "https://fluxaura-app.github.io/fish/res/Interstitial_1.png",
+      "icon_url": "https://fluxaura-app.github.io/fish/res/icon.png",
+      "title": "Officіal Fіshіng",
+      "body": "Cast your line, catch rare fish and enjoy the ultimate fishing adventure!",
+      "cta_text": "Install",
+      "bundle_id": "com.mosaicjaguar.prismprowlcanopy",
+      "weight": 1
+    },
+    {
+      "id": "interstitial_2",
+      "format": "image",
+      "placements": ["interstitial", "rewarded"],
+      "image_url": "https://fluxaura-app.github.io/fish/res/Interstitial_2.png",
+      "icon_url": "https://fluxaura-app.github.io/fish/res/icon.png",
+      "title": "Officіal Fіshіng",
+      "body": "Explore new waters, catch big fish and master your fishing skills!",
+      "cta_text": "Install",
+      "bundle_id": "com.mosaicjaguar.prismprowlcanopy",
+      "weight": 1
+    },
+    {
+      "id": "interstitial_3",
+      "format": "image",
+      "placements": ["interstitial", "rewarded"],
+      "image_url": "https://fluxaura-app.github.io/fish/res/Interstitial_3.png",
+      "icon_url": "https://fluxaura-app.github.io/fish/res/icon.png",
+      "title": "Officіal Fіshіng",
+      "body": "Go fishing, collect great catches and discover exciting locations!",
+      "cta_text": "Install",
+      "bundle_id": "com.mosaicjaguar.prismprowlcanopy",
+      "weight": 1
+    },
+    {
+      "id": "interstitial_text_1",
+      "format": "text",
+      "placements": ["interstitial", "rewarded"],
+      "icon_url": "https://fluxaura-app.github.io/fish/res/icon.png",
+      "title": "Officіal Fіshіng",
+      "body": "A relaxing fishing adventure with exciting catches awaits you!",
+      "cta_text": "Install",
+      "bundle_id": "com.mosaicjaguar.prismprowlcanopy",
+      "weight": 1
+    },
+    {
+      "id": "interstitial_text_2",
+      "format": "text",
+      "placements": ["interstitial", "rewarded"],
+      "icon_url": "https://fluxaura-app.github.io/fish/res/icon.png",
+      "title": "Officіal Fіshіng",
+      "body": "Cast, catch and enjoy the fun of your next fishing journey!",
+      "cta_text": "Install",
+      "bundle_id": "com.mosaicjaguar.prismprowlcanopy",
+      "weight": 1
+    },
+    {
+      "id": "banner_1",
+      "format": "image",
+      "placements": ["banner"],
+      "image_url": "https://fluxaura-app.github.io/fish/res/BannerAd_1.png",
+      "icon_url": "https://fluxaura-app.github.io/fish/res/icon.png",
+      "title": "Officіal Fіshіng",
+      "body": "Start your fishing adventure!",
+      "cta_text": "Install",
+      "bundle_id": "com.mosaicjaguar.prismprowlcanopy",
+      "weight": 1
+    },
+    {
+      "id": "banner_2",
+      "format": "image",
+      "placements": ["banner"],
+      "image_url": "https://fluxaura-app.github.io/fish/res/BannerAd_2.png",
+      "icon_url": "https://fluxaura-app.github.io/fish/res/icon.png",
+      "title": "Officіal Fіshіng",
+      "body": "Catch more fish and explore new waters!",
+      "cta_text": "Install",
+      "bundle_id": "com.mosaicjaguar.prismprowlcanopy",
+      "weight": 1
+    },
+    {
+      "id": "banner_3",
+      "format": "image",
+      "placements": ["banner"],
+      "image_url": "https://fluxaura-app.github.io/fish/res/BannerAd_3.png",
+      "icon_url": "https://fluxaura-app.github.io/fish/res/icon.png",
+      "title": "Officіal Fіshіng",
+      "body": "Take your gear and go fishing now!",
+      "cta_text": "Install",
+      "bundle_id": "com.mosaicjaguar.prismprowlcanopy",
+      "weight": 1
+    },
+    {
+      "id": "banner_text_1",
+      "format": "text",
+      "placements": ["banner"],
+      "icon_url": "https://fluxaura-app.github.io/fish/res/icon.png",
+      "title": "Officіal Fіshіng",
+      "body": "Big catches and fun fishing moments are waiting!",
+      "cta_text": "Install",
+      "bundle_id": "com.mosaicjaguar.prismprowlcanopy",
+      "weight": 1
+    }
+  ]
+}
